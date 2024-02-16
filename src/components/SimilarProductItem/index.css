@@ -1,0 +1,27 @@
+/* Write your CSS here */
+
+.similar-prod-img {
+  width: 350px;
+  border-radius: 15px;
+}
+
+.price-rating {
+  display: flex;
+  justify-content: space-between;
+}
+
+.similar-rating-section {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.similar-prod-item-container {
+  border: 1px solid green;
+  width: 60%;
+  padding: 25px;
+}
+
+.similar-review {
+  border: 1px solid red;
+}
